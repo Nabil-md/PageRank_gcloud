@@ -1,5 +1,5 @@
 # PageRank_gcloud
-Comparaison entre Pig et spark pour execution de l'algorithme PageRank
+Comparaison de temps d'éxecution entre Pig et spark pour l'algorithme PageRank
 
 
 
